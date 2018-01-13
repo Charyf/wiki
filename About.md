@@ -4,4 +4,11 @@ The main purpose is to provide functional and easy to use way to define intents,
 Charyf isolates developers from internals such as routing, dispatching, rendering and handling sessions, to maintain focus on the application logic and the dialogue flow.
 
 
-Continue to [[Getting Started]]
+For more information about using charyf, continue to [[Getting Started]]
+
+***
+
+**Charyf** is still in early stages of development. Be aware that current version still has limited features and may contain unidentified bugs.
+
+To read more about roadmap continue to [[Roadmap]]  
+To report an issue follow steps in [[Reporting an issue]]
