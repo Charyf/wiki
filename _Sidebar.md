@@ -12,4 +12,5 @@
   * [[Dispatchers]]
   * [[Session providers]]
 * [[Roadmap]]
+* [[Reporting an issue]]
 * [[Contributing]]
