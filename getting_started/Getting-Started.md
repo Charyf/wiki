@@ -14,5 +14,5 @@ Ruby version **>=2.1** is required.
 Charyf is lightweight a depends mostly on gem ```
 
 ---
-> Back: [[About]]
+> Back: [[About]]  
 > Next: [[Creating new project]]
