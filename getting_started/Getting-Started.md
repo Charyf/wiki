@@ -11,4 +11,8 @@ or install directly using ```gem install charyf```.
 
 Ruby version **>=2.1** is required.
 
-Charyf is lightweight a depends mostly on gem ```thor```.
+Charyf is lightweight a depends mostly on gem ```
+
+---
+> Back: [[About]]
+> Next: [[Creating new project]]
